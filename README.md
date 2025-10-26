@@ -20,7 +20,7 @@ O projeto simula eventos para integração com áreas do banco .
 - Minimal API + Swagger
 - Testes: xUnit
 - Cache: IMemoryCache para evitar consultas repetidas
-- Banco: Repositórios em memória (Não foi possívle criar o banco e fila na aws. O projeto foi criado pensando no sql então contem os mappings para migrations, repositórios e um exemplo superficial de uma mensageria.)
+- Banco: Repositórios em memória (Não foi possívle criar o banco e fila na aws. O projeto foi criado pensando no sql então contem os mappings para migrations, repositórios e um exemplo superficial de  mensageria.)
 
 📌 Estratégia de Cache
 Para reduzir custos com consultas repetidas, foi implementado CachedBankAccountRepository usando IMemoryCache.
