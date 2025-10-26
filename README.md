@@ -62,3 +62,6 @@ Contas Bancárias
 📌 Testes
 - Framework: xUnit
 - Cobertura: Casos de uso e validações de domínio.
+
+
+att: Lucas Guilherme Mendes Caetano
